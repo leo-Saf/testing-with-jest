@@ -13,5 +13,8 @@
     "testing-with-jest"
   ],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.13.7"
+  }
 }
